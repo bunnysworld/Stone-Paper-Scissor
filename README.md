@@ -27,5 +27,6 @@
 - >during case of ***tie*** no point is assigned
 
 ## Screenshot
+![Screenshot (25)](https://user-images.githubusercontent.com/42912055/63183441-97f91900-c072-11e9-96b6-33a3697eb887.png)
 
 
